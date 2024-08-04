@@ -1,1 +1,1 @@
-# minorproject2
+# Database Interface using GEMINI LLM
